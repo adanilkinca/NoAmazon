@@ -6,7 +6,7 @@ set DB_USER=<user_name>
 set DB_PASSWORD=<password>
 
 2. conftest.py demands to set which browser use, type like:
-set BROWSER=chrome
+set BROWSER=headlesschrome
 
 3. tests\api-tests.py demands to fill consumer_key and consumer_secret with correct data.
 
